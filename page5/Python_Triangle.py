@@ -1,3 +1,0 @@
-"""Triangle"""
-def main():
-    """"""
